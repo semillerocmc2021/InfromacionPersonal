@@ -11,7 +11,9 @@
             "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave",
 			"MNU_DGRA":"Menu Dorian Ramos",
             "MNU_JMS":"Menu Jorge Mosquera",
-			"MNU_YINA_REYES":"Menu Yina Reyes"
+			"MNU_YINA_REYES":"Menu Yina Reyes",
+		"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
+		"MNU_LDE":"David Escudero"
 
         }
 	}

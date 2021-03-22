@@ -10,7 +10,7 @@
             "MNU_JCRR_GRID2":"Lista Productos Jean Rave",
             "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave",
 			"MNU_DGRA":"Capacitaci\u00F3n Dorian Ramos",
-			"MNU_LEO_PAEZ:""Capacitaci\u00F3n Leonardo P\u00E1ez",
+			"MNU_LEO_PAEZ":"Capacitaci\u00F3n Leonardo P\u00E1ez",
             "MNU_JMS":"Capacitaci\u00F3n Jorge Mosquera",
 			"MNU_YINA_REYES":"Capacitaci\u00F3n Yina Reyes",
 			"MNU_ALEXANDER_CLIENTES":"Buscar Clientes",

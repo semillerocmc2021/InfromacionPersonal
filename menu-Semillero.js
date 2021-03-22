@@ -19,7 +19,7 @@
 			"MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
 			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
-			"Taller_Empresa": "Taller Empresa MAA"
+			"Taller_Empresa": "Taller Empresa MAA",
 			"MNU_YPRP_BVDA":"Bienvenida Yina Reyes Polo",
 			"Calificaciones_YinaReyes":"Calificaciones Yina Reyes Polo",
 			"Calculadora_YinaReyes":"Calculadora Yina Reyes Polo",
@@ -40,8 +40,33 @@
 			"Lista RSRM":"Lista RSRM",			
 			"EV_ROGER_REYES":"EV2 RR",
 			"Moneda RSRM":"Moneda RSRM",
-			"ListarPro RSRM":"ClienteCon RSRM"
-
+			"ListarPro RSRM":"ClienteCon RSRM",
+			"MNU_JCM_BIENVENIDA":"Bienvenido Jean Marchesini",
+			"MNU_SMCMC":"Formulario Semillero",
+			"MNU_JCM_PROMEDIO":"Calificaciones Jean Marchesini",
+			"MNU_JCM_CALCULADORA":"Calculadora Jean Marchesini",
+			"MNU_JCM_REPASO":"Repaso Jean Marchesini",
+			"MNU_JCM_EVALUACION":"Evaluacion 2 Jean Marchesini",
+			"MNU_JCM_EMPRESA":"Crear Empresa JCM",
+			"MNU_JCM_CONSULTA_EMPRESA":"Consultar Empresa JCM",
+			"MNU_JEAN_MARCHESINI":"MENU JEAN MARCHESINI",
+			"MNU_JCM_CREAR_PRODUCTO":"CREAR PRODUCTO JCM",
+			"MNU_JCM_CONSULTAR_PRODUCTO":"LISTAR PRODUCTOS JCM",
+			"MNU_JCM_ELIMINAR_PRODUCTO":"ELIMINAR PRODUCTOS JCM",
+			"MNU_LDE":"David Escudero Menu",
+			"MNU_LDE_CLIENTES_BUSQUEDA":"Cliente Busqueda LDE",
+			"MNU_MFFR_BVDA":"Bienvenida Maria Florez",
+			"MNU_SMCMC":"Formularios Semillero",
+			"Calificaciones_Maria_Florez":"Calificaciones Maria Florez",
+			"Calculadora_Maria_Florez":"Calculadora Maria Florez",
+			"MNU_EVALUACION":"Evaluacion 2",
+			"Evaluacion2_Maria_Florez":"Evaluacion Maria Florez",
+			"MNU_MFFR_EMPRESA":"Empresa Maria Florez",
+			"MNU_MFFR_BSCAR":"Buscar Maria Florez",
+			"MNU_Maria_Florez":"Menu principal",
+			"MNU_producto": "Insertar producto",
+			"MNU_ver_producto": "Ver producto",
+			"MNU_ver_cliente":"Ver cliente"
         }
     }
 }

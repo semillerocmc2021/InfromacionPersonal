@@ -5,6 +5,10 @@
 			"MNU_LUIS_ANGEL_FLOREZ":"Menú Luis Florez",
 			"MNU_MFFR":"Maria Fernanda Florez",
 			"MNU_PLCO_ALEXANDER":"Menu Alexander Pilco"
+            "MNU_JEAN_RAVE":"Jean Rave",
+            "MNU_JCRR_GRID":"registrar Producto Jean Rave",
+            "MNU_JCRR_GRID2":"Lista Productos Jean Rave",
+            "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave"
         }
     }
 }

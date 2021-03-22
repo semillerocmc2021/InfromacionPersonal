@@ -1,0 +1,13 @@
+{
+	"Entities": {
+		"EN_ESTUDIAAM_991": {
+			"name": "EstudianteJAMS"
+		},
+		"EN_ESTUDIANM_970": {
+			"name": "EstudianteMAAV"
+		},
+		"EN_ESTUDIATE_473": {
+			"name": "EstudianteMFFR"
+		}
+	}
+}

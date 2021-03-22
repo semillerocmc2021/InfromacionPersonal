@@ -22,14 +22,15 @@
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
 			"Taller_Empresa": "Taller Empresa MAA",  
             "MNU_MAAV":"Capacitaci\u00F3n Marcos Alc\u00EDvar",			
-            "MNU_BRYAN_VIZUETE":"Bryan Vizuete",
+            "MNU_BRYAN_VIZUETE":"Capacitaci\u00F3n Bryan Vizuete",
 			"MNU_FASE_4":"Fase 4",
 			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
 			"MNU_JMS_VPRO":"Productos Jorge Mosquera",
 			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera",
 			"MNU_JCMA":"Capacitaci\u00F3n Jean Carlo Marchesini",
 			"MNU_JCM_LISTAR_CLIENTE":"Listar Cliente JCMA",
-			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto"
+			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto",
+			:"Capacitaci\u00F3n Felipe Zum\u00E1rraga"
         }
 	}
 }

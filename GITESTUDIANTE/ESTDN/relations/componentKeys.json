@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ESTUDIAAM_991": {
+			"name": "EstudianteJAMS"
+		},
 		"EN_ESTUDIATE_473": {
 			"name": "EstudianteMFFR"
 		}

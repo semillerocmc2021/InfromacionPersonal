@@ -29,7 +29,8 @@
 			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera",
 			"MNU_JCMA":"Menu Jean Marchesini",
 			"MNU_JCM_LISTAR_CLIENTE":"Listar Cliente JCMA",
-			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto"
+			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto",
+			:"Capacitaci\u00F3n Felipe Zum\u00E1rraga"
         }
 	}
 }

@@ -4,7 +4,7 @@
             "MNU_FASE_4":"Men\u00FA Fase 4",
 			"MNU_LUIS_ANGEL_FLOREZ":"Capacitaci\u00F3n Luis Fl\u00F3rez",
 			"MNU_MFFR":"Capacitaci\u00F3n Mar\u00EDa Fl\u00F3rez",
-			"MNU_PLCO_ALEXANDER":"Capacitaci\u00F3n Alexander Pilco",
+			"MNU_PLCO_ALEXANDER":"Capacitaci\u00F3n  Alexander Pilco",
 			"MNU_JEAN_RAVE":"Capacitaci\u00F3n Jean Rave",
 			"MNU_JCRR_GRID":"registrar Producto Jean Rave",
             "MNU_JCRR_GRID2":"Lista Productos Jean Rave",

@@ -1,4 +1,4 @@
-{
+ {
     "COMMONS": {
         "MENU": {
             "MNU_LAFS_BVDA":"Bienvenida Luis Angel Florez",
@@ -29,7 +29,18 @@
 			"BuscarCliente_YinaReyes":"Buscar Cliente Yina Reyes Polo",
 			"ListarCliente_YinaReyes":"Listar Cliente Yina Reyes Polo",
 			"MNU_BAPB_CALIF":"CALIFICACIONES ALEXANDER PILCO",
-			"MNU_BAPB_CALCU":"CALCULADORA ALEXANDER PILCO"
+			"MNU_BAPB_CALCU":"CALCULADORA ALEXANDER PILCO",
+			"MNU_RSRM_BVDA":"BVDA ROGER REYES",
+			"MNU_RSRM_CLFCC":"Evaluacion2 ROGER REYES",
+			"MNU_RSRM_CLCLD":"Calculadora ROGER REYES",
+			"MNU_SMCMC":"Formulario Semilla",
+			"taller_RSRM":"TallerRSRM",
+			"cliente_RSRM":"Cliente RSRS",
+			"consulta_cliente_RSR":"Consulta RSRM",
+			"Lista RSRM":"Lista RSRM",			
+			"EV_ROGER_REYES":"EV2 RR",
+			"Moneda RSRM":"Moneda RSRM",
+			"ListarPro RSRM":"ClienteCon RSRM"
 
         }
     }

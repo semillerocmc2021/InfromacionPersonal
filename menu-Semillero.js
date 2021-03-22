@@ -40,8 +40,8 @@
 			"Lista RSRM":"Lista RSRM",			
 			"EV_ROGER_REYES":"EV2 RR",
 			"Moneda RSRM":"Moneda RSRM",
-			"ListarPro RSRM":"ClienteCon RSRM"
-
+			"ListarPro RSRM":"ClienteCon RSRM",
+			"MNU_ROGER_REYES":"Menu ROGER"
         }
     }
 }

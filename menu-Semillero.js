@@ -1,10 +1,12 @@
 {
     "COMMONS": {
         "MENU": {
-			"MNU_EJEMPLO2":"Ejemplo 2",
-			"MNU_EJEMPLO3":"Ejemplo 3",
-			"MNU_EJEMPLO5":"Menu 5",
-			"MNU_EJEMPLO6":"Menu 6"
+            "MNU_LAFS_BVDA":"Bienvenida Luis Angel Florez",
+			"MNU_SMCMC":"Formulario semillero",
+			"RECU_LAFS":"Recuperar Clientes LAFS",
+			"CONSULTAR_LAFS":"Consultar productos LAFS",
+			"INSERTAR_LAFS":"Insertar productos LAFS",
+			"NOTAS_LAFS":"Notas LAFS"
         }
     }
 }

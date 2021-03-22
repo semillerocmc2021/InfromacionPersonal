@@ -40,8 +40,19 @@
 			"Lista RSRM":"Lista RSRM",			
 			"EV_ROGER_REYES":"EV2 RR",
 			"Moneda RSRM":"Moneda RSRM",
-			"ListarPro RSRM":"ClienteCon RSRM"
-
+			"ListarPro RSRM":"ClienteCon RSRM",
+			"MNU_JCM_BIENVENIDA":"Bienvenido Jean Marchesini",
+			"MNU_SMCMC":"Formulario Semillero",
+			"MNU_JCM_PROMEDIO":"Calificaciones Jean Marchesini",
+			"MNU_JCM_CALCULADORA":"Calculadora Jean Marchesini",
+			"MNU_JCM_REPASO":"Repaso Jean Marchesini",
+			"MNU_JCM_EVALUACION":"Evaluacion 2 Jean Marchesini",
+			"MNU_JCM_EMPRESA":"Crear Empresa JCM",
+			"MNU_JCM_CONSULTA_EMPRESA":"Consultar Empresa JCM",
+			"MNU_JEAN_MARCHESINI":"MENU JEAN MARCHESINI",
+			"MNU_JCM_CREAR_PRODUCTO":"CREAR PRODUCTO JCM",
+			"MNU_JCM_CONSULTAR_PRODUCTO":"LISTAR PRODUCTOS JCM",
+			"MNU_JCM_ELIMINAR_PRODUCTO":"ELIMINAR PRODUCTOS JCM"
         }
     }
 }

@@ -22,7 +22,7 @@
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
 			"Taller_Empresa": "Taller Empresa MAA",  
             "MNU_MAAV":"Capacitaci\u00F3n Marcos Alc\u00EDvar",			
-            "MNU_BRYAN_VIZUETE":"Bryan Vizuete",
+            "MNU_BRYAN_VIZUETE":"Capacitaci\u00F3n Bryan Vizuete",
 			"MNU_FASE_4":"Fase 4",
 			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
 			"MNU_JMS_VPRO":"Productos Jorge Mosquera",

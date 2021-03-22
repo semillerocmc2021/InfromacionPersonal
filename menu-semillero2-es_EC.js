@@ -27,7 +27,7 @@
 			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
 			"MNU_JMS_VPRO":"Productos Jorge Mosquera",
 			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera",
-			"MNU_JCMA":"Capacitaci\u00F3n Jean Marchesini",
+			"MNU_JCMA":"Capacitaci\u00F3n Jean Carlo Marchesini",
 			"MNU_JCM_LISTAR_CLIENTE":"Listar Cliente JCMA",
 			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto"
         }

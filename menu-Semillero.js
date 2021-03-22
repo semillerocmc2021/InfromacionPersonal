@@ -15,7 +15,11 @@
 			"MNU_JMS_CALC":"Calculadora Jorge Mosquera",
 			"MNU_JMS_CALF":"Calificaciones Jorge Mosquera",
 			"MNU_JMS_EMPR":"Crear Empresa Jorge Mosquera",
-			"MNU_JMS_CEMP":"Buscar Empresa Jorge Mosquera"
+			"MNU_JMS_CEMP":"Buscar Empresa Jorge Mosquera",
+			"MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
+			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
+			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
+			"Taller_Empresa": "Taller Empresa MAA"
         }
     }
 }

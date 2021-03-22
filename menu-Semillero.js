@@ -19,7 +19,7 @@
 			"MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
 			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
-			"Taller_Empresa": "Taller Empresa MAA"
+			"Taller_Empresa": "Taller Empresa MAA",
 			"MNU_YPRP_BVDA":"Bienvenida Yina Reyes Polo",
 			"Calificaciones_YinaReyes":"Calificaciones Yina Reyes Polo",
 			"Calculadora_YinaReyes":"Calculadora Yina Reyes Polo",

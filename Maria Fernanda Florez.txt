@@ -1,5 +1,4 @@
 {
-	"nombre":"Maria Fernanda",
 	"apllido":"Florez"
 
 

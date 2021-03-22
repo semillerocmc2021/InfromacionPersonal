@@ -1,7 +1,7 @@
 {
     "COMMONS": {
         "MENU": {
-            "MNU_FASE_4":"Menú Fase 4",
+            "MNU_FASE_4":"Men\u00FA Fase 4",
 			"MNU_LUIS_ANGEL_FLOREZ":"Menú Luis Florez",
 			"MNU_MFFR":"Maria Fernanda Florez",
 			"MNU_PLCO_ALEXANDER":"Menu Alexander Pilco",
@@ -15,7 +15,9 @@
 			"MNU_ALEXANDER_CLIENTES":"Buscar Clientes",
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
 			"MNU_LDE":"David Escudero",
-			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera"
+            "MNU_BRYAN_VIZUETE":"Bryan Vizuete"
+                
+
 
         }
 	}

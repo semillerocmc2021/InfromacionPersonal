@@ -1,5 +1,8 @@
 {
 	"Entities": {
+		"EN_ALCIVARVR_715": {
+			"name": "ALCIVAR"
+		},
 		"EN_ESCUDEROO_301": {
 			"name": "ESCUDERO"
 		}

@@ -16,7 +16,10 @@
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
 			"MNU_LDE":"David Escudero",
             "MNU_BRYAN_VIZUETE":"Bryan Vizuete"
-                
+            "MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
+			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
+			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
+			"Taller_Empresa": "Taller Empresa MAA",    
 
 
         }

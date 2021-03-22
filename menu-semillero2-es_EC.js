@@ -26,7 +26,8 @@
 			"ListarPro RSRM":"ClienteCon RSRM",
 			"MNU_ROGER_REYES":"Menu ROGER",
 			"MNU_FASE_4":"Fase 4",
-			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera"
+			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
+			"MNU_JMS_VPRO":"Productos Jorge Mosquera"
 
 
         }

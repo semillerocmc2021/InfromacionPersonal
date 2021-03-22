@@ -16,12 +16,10 @@
 			"MNU_JMS_CALF":"Calificaciones Jorge Mosquera",
 			"MNU_JMS_EMPR":"Crear Empresa Jorge Mosquera",
 			"MNU_JMS_CEMP":"Buscar Empresa Jorge Mosquera",
-<<<<<<< HEAD
 			"MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
 			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
 			"Taller_Empresa": "Taller Empresa MAA"
-=======
 			"MNU_YPRP_BVDA":"Bienvenida Yina Reyes Polo",
 			"Calificaciones_YinaReyes":"Calificaciones Yina Reyes Polo",
 			"Calculadora_YinaReyes":"Calculadora Yina Reyes Polo",
@@ -32,7 +30,7 @@
 			"ListarCliente_YinaReyes":"Listar Cliente Yina Reyes Polo",
 			"MNU_BAPB_CALIF":"CALIFICACIONES ALEXANDER PILCO",
 			"MNU_BAPB_CALCU":"CALCULADORA ALEXANDER PILCO"
->>>>>>> 50b7612b030b979814fbced6559adfa986f41351
+
         }
     }
 }

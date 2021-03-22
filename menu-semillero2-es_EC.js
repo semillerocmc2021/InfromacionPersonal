@@ -16,7 +16,7 @@
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
 			"MNU_LDE":"Capacitaci\u00F3n David Escudero",
             "MNU_BRYAN_VIZUETE":"Bryan Vizuete",
-			"MNU_ROGER_REYES":"Menu Roger Reyes",
+			"MNU_ROGER_REYES":"Capacitaci\u00F3n Roger Reyes",
 			"MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
 			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",

@@ -15,9 +15,6 @@
 		"EN_ESTUDIANS_259": {
 			"name": "EstudianteLAFS"
 		},
-		"EN_ESTUDIAPN_491": {
-			"name": "EstudianteYPRP"
-		},
 		"EN_ESTUDIATE_162": {
 			"name": "EstudianteSMO"
 		},
@@ -26,6 +23,9 @@
 		},
 		"EN_ESTUDIATN_689": {
 			"name": "EstudianteDGRA"
+		},
+		"EN_ESTUDIATY_654": {
+			"name": "EstudianteYPRP"
 		}
 	}
 }

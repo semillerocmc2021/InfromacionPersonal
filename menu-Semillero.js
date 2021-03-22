@@ -15,7 +15,15 @@
 			"MNU_JMS_CALC":"Calculadora Jorge Mosquera",
 			"MNU_JMS_CALF":"Calificaciones Jorge Mosquera",
 			"MNU_JMS_EMPR":"Crear Empresa Jorge Mosquera",
-			"MNU_JMS_CEMP":"Buscar Empresa Jorge Mosquera"
+			"MNU_JMS_CEMP":"Buscar Empresa Jorge Mosquera",
+			"MNU_YPRP_BVDA":"Bienvenida Yina Reyes Polo",
+			"Calificaciones_YinaReyes":"Calificaciones Yina Reyes Polo",
+			"Calculadora_YinaReyes":"Calculadora Yina Reyes Polo",
+			"Evaluacion2_YinaReyes":"Evaluacion 2 Yina Reyes Polo",
+			"EmpresaBLI_YinaReyes": "BLI_CrearEmpresa Yina Reyes Polo",
+			"CrearCliente_YinaReyes":"Crear Cliente Yina Reyes Polo",
+			"BuscarCliente_YinaReyes":"Buscar Cliente Yina Reyes Polo",
+			"ListarCliente_YinaReyes":"Listar Cliente Yina Reyes Polo"
         }
     }
 }

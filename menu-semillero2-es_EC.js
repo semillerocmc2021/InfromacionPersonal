@@ -10,7 +10,7 @@
             "MNU_JCRR_GRID2":"Lista Productos Jean Rave",
             "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave",
 			"MNU_DGRA":"Menu Dorian Ramos",
-            "MNU_JMS":"Menu Jorge Mosquera",
+            "MNU_JMS":"Capacitaci\u00F3n Jorge Mosquera",
 			"MNU_YINA_REYES":"Capacitaci\u00F3n Yina Reyes",
 			"MNU_ALEXANDER_CLIENTES":"Buscar Clientes",
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",

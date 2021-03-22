@@ -25,9 +25,9 @@
 			"MNU_FASE_4":"Fase 4",
 			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
 			"MNU_JMS_VPRO":"Productos Jorge Mosquera",
-			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera"
-
-
+			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera",
+			"MNU_JCMA":"Menu Jean Marchesini",
+			"MNU_JCM_LISTAR_CLIENTE":"Listar Cliente JCMA"
         }
 	}
 }

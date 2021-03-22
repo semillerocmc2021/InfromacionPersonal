@@ -15,8 +15,7 @@
 			"MNU_ALEXANDER_CLIENTES":"Buscar Clientes",
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
 			"MNU_LDE":"David Escudero",
-            "MNU_JMS_BVDA":"Bienvenido Jorge Mosquera"
-
+			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera"
 
         }
 	}

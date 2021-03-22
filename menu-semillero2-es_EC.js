@@ -15,11 +15,17 @@
 			"MNU_ALEXANDER_CLIENTES":"Buscar Clientes",
 			"MNU_LDE_CLIENTES_BUSQUEDA":"Busqueda Clientes LDE",
 			"MNU_LDE":"David Escudero",
-            "MNU_BRYAN_VIZUETE":"Bryan Vizuete"
+            "MNU_BRYAN_VIZUETE":"Bryan Vizuete",
             "MNU_MAV_BVDA":"Bienvenido Marcos Alcivar",
 			"Calificaciones_Marcos_Alcivar":"Calificaciones Marcos Alcivar",
 			"Calculadora_Marcos_Alcivar":"Calculadora Marcos Alcivar",
 			"Taller_Empresa": "Taller Empresa MAA",    
+            "MNU_BRYAN_VIZUETE":"Bryan Vizuete",
+			"EV_ROGER_REYES":"EV2 RR",
+			"Moneda RSRM":"Moneda RSRM",
+			"ListarPro RSRM":"ClienteCon RSRM",
+			"MNU_ROGER_REYES":"Menu ROGER",
+			"MNU_FASE_4":"Fase 4"
 
 
         }

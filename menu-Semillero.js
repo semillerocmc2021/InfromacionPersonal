@@ -41,9 +41,7 @@
 			"EV_ROGER_REYES":"EV2 RR",
 			"Moneda RSRM":"Moneda RSRM",
 			"ListarPro RSRM":"ClienteCon RSRM",
-<<<<<<< HEAD
-			"MNU_ROGER_REYES":"Menu ROGER"
-=======
+			"MNU_ROGER_REYES":"Menu ROGER",
 			"MNU_JCM_BIENVENIDA":"Bienvenido Jean Marchesini",
 			"MNU_SMCMC":"Formulario Semillero",
 			"MNU_JCM_PROMEDIO":"Calificaciones Jean Marchesini",
@@ -71,7 +69,6 @@
 			"MNU_producto": "Insertar producto",
 			"MNU_ver_producto": "Ver producto",
 			"MNU_ver_cliente":"Ver cliente"
->>>>>>> c0cf405cc3071a2155ef2a984172eca1ae2d4f0e
         }
     }
 }

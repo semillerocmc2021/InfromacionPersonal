@@ -2,7 +2,7 @@
     "COMMONS": {
         "MENU": {
             "MNU_FASE_4":"Men\u00FA Fase 4",
-			"MNU_LUIS_ANGEL_FLOREZ":"Menu Luis Florez",
+			"MNU_LUIS_ANGEL_FLOREZ":"Luis Fl&oacute",
 			"MNU_MFFR":"Maria Fernanda Florez",
 			"MNU_PLCO_ALEXANDER":"Menu Alexander Pilco",
 			"MNU_JEAN_RAVE":"Jean Rave",

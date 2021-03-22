@@ -23,7 +23,9 @@
 			"EmpresaBLI_YinaReyes": "BLI_CrearEmpresa Yina Reyes Polo",
 			"CrearCliente_YinaReyes":"Crear Cliente Yina Reyes Polo",
 			"BuscarCliente_YinaReyes":"Buscar Cliente Yina Reyes Polo",
-			"ListarCliente_YinaReyes":"Listar Cliente Yina Reyes Polo"
+			"ListarCliente_YinaReyes":"Listar Cliente Yina Reyes Polo",
+			"MNU_BAPB_CALIF":"CALIFICACIONES ALEXANDER PILCO",
+			"MNU_BAPB_CALCU":"CALCULADORA ALEXANDER PILCO"
         }
     }
 }

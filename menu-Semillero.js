@@ -54,7 +54,19 @@
 			"MNU_JCM_CONSULTAR_PRODUCTO":"LISTAR PRODUCTOS JCM",
 			"MNU_JCM_ELIMINAR_PRODUCTO":"ELIMINAR PRODUCTOS JCM",
 			"MNU_LDE":"David Escudero Menu",
-			"MNU_LDE_CLIENTES_BUSQUEDA":"Cliente Busqueda LDE"
+			"MNU_LDE_CLIENTES_BUSQUEDA":"Cliente Busqueda LDE",
+			"MNU_MFFR_BVDA":"Bienvenida Maria Florez",
+			"MNU_SMCMC":"Formularios Semillero",
+			"Calificaciones_Maria_Florez":"Calificaciones Maria Florez",
+			"Calculadora_Maria_Florez":"Calculadora Maria Florez",
+			"MNU_EVALUACION":"Evaluacion 2",
+			"Evaluacion2_Maria_Florez":"Evaluacion Maria Florez",
+			"MNU_MFFR_EMPRESA":"Empresa Maria Florez",
+			"MNU_MFFR_BSCAR":"Buscar Maria Florez",
+			"MNU_Maria_Florez":"Menu principal",
+			"MNU_producto": "Insertar producto",
+			"MNU_ver_producto": "Ver producto",
+			"MNU_ver_cliente":"Ver cliente"
         }
     }
 }

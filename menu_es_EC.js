@@ -8,7 +8,8 @@
             "MNU_JEAN_RAVE":"Jean Rave",
             "MNU_JCRR_GRID":"registrar Producto Jean Rave",
             "MNU_JCRR_GRID2":"Lista Productos Jean Rave",
-            "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave"
+            "MNU_JCRR_GRID_CLIENTE":"Busqueda Clientes Jean Rave",
+            "MNU_JMS":"Menu Jorge Mosquera"
         }
     }
 }

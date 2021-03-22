@@ -1,4 +1,3 @@
 {
-	"nombre": "Jean",
 	"apellido": "Rave",
 }

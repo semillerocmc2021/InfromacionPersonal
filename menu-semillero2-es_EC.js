@@ -31,7 +31,7 @@
 			"MNU_JCMA":"Capacitaci\u00F3n Jean Carlo Marchesini",
 			"MNU_JCM_LISTAR_CLIENTE":"Listar Cliente JCMA",
 			"MNU_ALEXANDER_PRODUCTOI":"Ingresar Producto",
-			:"Capacitaci\u00F3n Felipe Zum\u00E1rraga"
+			"MNU_LFZC_CLI_VIS":"Capacitaci\u00F3n Felipe Zum\u00E1rraga"
         }
 	}
 }

@@ -2,7 +2,7 @@
     "COMMONS": {
         "MENU": {
             "MNU_FASE_4":"Men\u00FA Fase 4",
-			"MNU_LUIS_ANGEL_FLOREZ":"Menú Luis Florez",
+			"MNU_LUIS_ANGEL_FLOREZ":"Luis Fl&oacute;rez",
 			"MNU_MFFR":"Maria Fernanda Florez",
 			"MNU_PLCO_ALEXANDER":"Alexander Pilco",
 			"MNU_JEAN_RAVE":"Jean Rave",
@@ -26,7 +26,9 @@
 			"ListarPro RSRM":"ClienteCon RSRM",
 			"MNU_ROGER_REYES":"Menu ROGER",
 			"MNU_FASE_4":"Fase 4",
-			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera"
+			"MNU_JMS_BCLI":"Busqueda clientes Jorge Mosquera",
+			"MNU_JMS_VPRO":"Productos Jorge Mosquera",
+			"MNU_JMS_PRO":"Ingresar pro Jorge Mosquera"
 
 
         }
